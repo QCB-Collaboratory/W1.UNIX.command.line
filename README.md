@@ -1,4 +1,4 @@
-# Materials for the UCLA QCBio Workshop on UNIX command line
+# UNIX command line
 
 Here we provide materials for the UCLA QCBio Workshop on UNIX command line (Workshop 1)
 
