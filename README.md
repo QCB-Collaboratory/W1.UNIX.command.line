@@ -1,3 +1,6 @@
-UMI-Reducer is a method for processing and differentiating PCR duplicates from biological duplicates and bias-free estimation of mRNA abundance in the sample.
 
-See the main webpage 
+
+Here we provide materials for the UCLA QCBio Worhsop on UNIX command line (Workshop 1)
+
+
+See the main webpage https://github.com/QCB-Collaboratory/W1.UNIX.command.line/wiki
